@@ -20,7 +20,7 @@ namespace ContentAwareResize
             
             seamPathCoord = new List<coord>();
 
-            // copy the original 1st raw to the dp array
+            // copy the original 1st row to the dp array
             for (int j = 0; j < Width; j++)
                 dp[0, j] = energyMatrix[0, j];
             
