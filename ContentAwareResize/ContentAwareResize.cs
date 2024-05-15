@@ -5,10 +5,6 @@ using System.Drawing;
 
 namespace ContentAwareResize
 {
-    // *****************************************
-    // * DON'T CHANGE CLASS OR FUNCTION NAME   *
-    // * YOU CAN ADD FUNCTIONS IF YOU NEED TO  *
-    // *****************************************
     public class ContentAwareResize
     {
         public struct coord
@@ -16,16 +12,7 @@ namespace ContentAwareResize
             public int row;
             public int column;
         }
-        //========================================================================================================
-        // Your Code is Here:
-        //===================
-        /// <summary>
-        /// Develop an efficient algorithm to get the minimum vertical seam to be removed
-        /// </summary>
-        /// <param name="energyMatrix">2D matrix filled with the calculated energy for each pixel in the image</param>
-        /// <param name="Width">Image's width</param>
-        /// <param name="Height">Image's height</param>
-        /// <returns>BY REFERENCE: The min total value (energy) of the selected seam in "minSeamValue" & List of points of the selected min vertical seam in seamPathCoord</returns>
+        
         public void CalculateSeamsCost(int[,] energyMatrix, int Width, int Height, ref int minSeamValue, ref List<coord> seamPathCoord)
         {
             int[,] dp = new int[Height, Width];
@@ -73,10 +60,6 @@ namespace ContentAwareResize
             seamPathCoord.Reverse();
         }
 
-        // *****************************************
-        // DON'T CHANGE CLASS OR FUNCTION NAME
-        // YOU CAN ADD FUNCTIONS IF YOU NEED TO 
-        // *****************************************
         #region DON'TCHANGETHISCODE
         public MyColor[,] _imageMatrix;
         public int[,] _energyMatrix;
