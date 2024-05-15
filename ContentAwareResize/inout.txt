@@ -1,0 +1,5 @@
+Dolphin,4706
+Image1,1978
+Image2,7008
+Image3,3318
+Sea,4902

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ContentAwareResize">
+</Property><Property Name="Solution File" Value="G:\COURSES\Algorithms\Algorithms 2009\ContentAwareResize - Copy\ContentAwareResize.sln">
+</Property><Property Name="User Options File" Value="G:\COURSES\Algorithms\Algorithms 2009\ContentAwareResize - Copy\ContentAwareResize.suo">
+</Property><Property Name="Date" Value="Sunday, December 05, 2010">
+</Property><Property Name="Time" Value="0:13 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ContentAwareResize.sln" Description="File successfully backed up as G:\COURSES\Algorithms\Algorithms 2009\ContentAwareResize - Copy\Backup\ContentAwareResize.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ContentAwareResize.suo" Description="File successfully backed up as G:\COURSES\Algorithms\Algorithms 2009\ContentAwareResize - Copy\Backup\ContentAwareResize.suo">
+</Event><Event ErrorLevel="0" Project="ContentAwareResize" Source="ContentAwareResize\ContentAwareResize.csproj" Description="Project file successfully backed up as G:\COURSES\Algorithms\Algorithms 2009\ContentAwareResize - Copy\Backup\ContentAwareResize\ContentAwareResize.csproj">
+</Event><Event ErrorLevel="0" Project="ContentAwareResize" Source="ContentAwareResize\ContentAwareResize.cs" Description="File successfully backed up as G:\COURSES\Algorithms\Algorithms 2009\ContentAwareResize - Copy\Backup\ContentAwareResize\ContentAwareResize.cs">
+</Event><Event ErrorLevel="0" Project="ContentAwareResize" Source="ContentAwareResize\Form1.cs" Description="File successfully backed up as G:\COURSES\Algorithms\Algorithms 2009\ContentAwareResize - Copy\Backup\ContentAwareResize\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ContentAwareResize" Source="ContentAwareResize\Form1.Designer.cs" Description="File successfully backed up as G:\COURSES\Algorithms\Algorithms 2009\ContentAwareResize - Copy\Backup\ContentAwareResize\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ContentAwareResize" Source="ContentAwareResize\ImageOperations.cs" Description="File successfully backed up as G:\COURSES\Algorithms\Algorithms 2009\ContentAwareResize - Copy\Backup\ContentAwareResize\ImageOperations.cs">
+</Event><Event ErrorLevel="0" Project="ContentAwareResize" Source="ContentAwareResize\Program.cs" Description="File successfully backed up as G:\COURSES\Algorithms\Algorithms 2009\ContentAwareResize - Copy\Backup\ContentAwareResize\Program.cs">
+</Event><Event ErrorLevel="0" Project="ContentAwareResize" Source="ContentAwareResize\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\COURSES\Algorithms\Algorithms 2009\ContentAwareResize - Copy\Backup\ContentAwareResize\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ContentAwareResize" Source="ContentAwareResize\Properties\Resources.Designer.cs" Description="File successfully backed up as G:\COURSES\Algorithms\Algorithms 2009\ContentAwareResize - Copy\Backup\ContentAwareResize\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ContentAwareResize" Source="ContentAwareResize\Properties\Settings.Designer.cs" Description="File successfully backed up as G:\COURSES\Algorithms\Algorithms 2009\ContentAwareResize - Copy\Backup\ContentAwareResize\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ContentAwareResize" Source="ContentAwareResize\Properties\Settings.settings" Description="File successfully backed up as G:\COURSES\Algorithms\Algorithms 2009\ContentAwareResize - Copy\Backup\ContentAwareResize\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ContentAwareResize" Source="ContentAwareResize\Form1.resx" Description="File successfully backed up as G:\COURSES\Algorithms\Algorithms 2009\ContentAwareResize - Copy\Backup\ContentAwareResize\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ContentAwareResize" Source="ContentAwareResize\Properties\Resources.resx" Description="File successfully backed up as G:\COURSES\Algorithms\Algorithms 2009\ContentAwareResize - Copy\Backup\ContentAwareResize\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ContentAwareResize" Source="ContentAwareResize\ContentAwareResize.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ContentAwareResize" Source="ContentAwareResize\ContentAwareResize.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ContentAwareResize.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ContentAwareResize.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ContentAwareResize" Source="ContentAwareResize\ContentAwareResize.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

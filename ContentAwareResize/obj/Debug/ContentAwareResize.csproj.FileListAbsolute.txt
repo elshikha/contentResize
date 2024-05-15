@@ -1,0 +1,70 @@
+E:\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.exe
+E:\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.pdb
+E:\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csprojAssemblyReference.cache
+E:\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Form1.resources
+E:\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.ImageForm.resources
+E:\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Properties.Resources.resources
+E:\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.GenerateResource.cache
+E:\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.CoreCompileInputs.cache
+E:\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.exe
+E:\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.pdb
+E:\3rd\Analysis and Design of Algorithms\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.exe
+E:\3rd\Analysis and Design of Algorithms\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.pdb
+E:\3rd\Analysis and Design of Algorithms\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csprojAssemblyReference.cache
+E:\3rd\Analysis and Design of Algorithms\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Form1.resources
+E:\3rd\Analysis and Design of Algorithms\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.ImageForm.resources
+E:\3rd\Analysis and Design of Algorithms\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Properties.Resources.resources
+E:\3rd\Analysis and Design of Algorithms\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.GenerateResource.cache
+E:\3rd\Analysis and Design of Algorithms\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.CoreCompileInputs.cache
+E:\3rd\Analysis and Design of Algorithms\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.exe
+E:\3rd\Analysis and Design of Algorithms\[CHP]Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.pdb
+E:\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.exe
+E:\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.pdb
+E:\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csprojAssemblyReference.cache
+E:\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Form1.resources
+E:\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.ImageForm.resources
+E:\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Properties.Resources.resources
+E:\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.GenerateResource.cache
+E:\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.CoreCompileInputs.cache
+E:\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.exe
+E:\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.pdb
+E:\Education\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.exe
+E:\Education\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.pdb
+E:\Education\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csprojAssemblyReference.cache
+E:\Education\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Form1.resources
+E:\Education\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.ImageForm.resources
+E:\Education\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Properties.Resources.resources
+E:\Education\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.GenerateResource.cache
+E:\Education\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.CoreCompileInputs.cache
+E:\Education\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.exe
+E:\Education\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.pdb
+D:\year 2 sem 2\Algorithms\project\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.exe
+D:\year 2 sem 2\Algorithms\project\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.pdb
+D:\year 2 sem 2\Algorithms\project\[TEMPLATE] ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.exe
+D:\year 2 sem 2\Algorithms\project\[TEMPLATE] ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.pdb
+D:\year 2 sem 2\Algorithms\project\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.AssemblyReference.cache
+D:\year 2 sem 2\Algorithms\project\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Form1.resources
+D:\year 2 sem 2\Algorithms\project\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.ImageForm.resources
+D:\year 2 sem 2\Algorithms\project\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Properties.Resources.resources
+D:\year 2 sem 2\Algorithms\project\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.GenerateResource.cache
+D:\year 2 sem 2\Algorithms\project\[TEMPLATE] ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.CoreCompileInputs.cache
+D:\year 2 sem 2\Algorithms\project\FInal\ContentAwareResize\bin\Debug\ContentAwareResize.exe
+D:\year 2 sem 2\Algorithms\project\FInal\ContentAwareResize\bin\Debug\ContentAwareResize.pdb
+D:\year 2 sem 2\Algorithms\project\FInal\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.AssemblyReference.cache
+D:\year 2 sem 2\Algorithms\project\FInal\ContentAwareResize\obj\Debug\ContentAwareResize.Form1.resources
+D:\year 2 sem 2\Algorithms\project\FInal\ContentAwareResize\obj\Debug\ContentAwareResize.ImageForm.resources
+D:\year 2 sem 2\Algorithms\project\FInal\ContentAwareResize\obj\Debug\ContentAwareResize.Properties.Resources.resources
+D:\year 2 sem 2\Algorithms\project\FInal\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.GenerateResource.cache
+D:\year 2 sem 2\Algorithms\project\FInal\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.CoreCompileInputs.cache
+D:\year 2 sem 2\Algorithms\project\FInal\ContentAwareResize\obj\Debug\ContentAwareResize.exe
+D:\year 2 sem 2\Algorithms\project\FInal\ContentAwareResize\obj\Debug\ContentAwareResize.pdb
+D:\year 2 sem 2\Algorithms\project\FinalProject\FInal\ContentAwareResize\bin\Debug\ContentAwareResize.exe
+D:\year 2 sem 2\Algorithms\project\FinalProject\FInal\ContentAwareResize\bin\Debug\ContentAwareResize.pdb
+D:\year 2 sem 2\Algorithms\project\FinalProject\FInal\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.AssemblyReference.cache
+D:\year 2 sem 2\Algorithms\project\FinalProject\FInal\ContentAwareResize\obj\Debug\ContentAwareResize.Form1.resources
+D:\year 2 sem 2\Algorithms\project\FinalProject\FInal\ContentAwareResize\obj\Debug\ContentAwareResize.ImageForm.resources
+D:\year 2 sem 2\Algorithms\project\FinalProject\FInal\ContentAwareResize\obj\Debug\ContentAwareResize.Properties.Resources.resources
+D:\year 2 sem 2\Algorithms\project\FinalProject\FInal\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.GenerateResource.cache
+D:\year 2 sem 2\Algorithms\project\FinalProject\FInal\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.CoreCompileInputs.cache
+D:\year 2 sem 2\Algorithms\project\FinalProject\FInal\ContentAwareResize\obj\Debug\ContentAwareResize.exe
+D:\year 2 sem 2\Algorithms\project\FinalProject\FInal\ContentAwareResize\obj\Debug\ContentAwareResize.pdb
